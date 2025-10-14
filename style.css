@@ -1,5 +1,13 @@
 body {
-	background: green;
-	color: red;
+	background: grey;
+	color: white;
 	font-family: Arial, sans-serif, Helvetica;
+}
+
+.title {
+	background: black;
+}
+
+.body {
+	background: white;
 }

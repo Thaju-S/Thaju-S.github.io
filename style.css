@@ -4,11 +4,11 @@ body {
 	font-family: Arial, sans-serif, Helvetica;
 }
 
-.title {
+h1 {
 	background: black;
 }
 
-.body {
+h2 {
 	background: white;
 	color: black;
 }

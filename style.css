@@ -1,22 +1,22 @@
 body {
-	background: grey;
-	color: white;
+	background: azure;
+	color: black;
 	font-family: Arial, sans-serif, Helvetica;
 }
 
 h1 {
-	background: black;
+	background: cornflowerblue;
 }
 
 h2 {
-	background: white;
+	background: lightblue;
 	color: black;
 }
 
 h3 {
-	background: black;
+	background: paleturquoise;
 }
 
 p {
-	background: black;
+	background: white;
 }
